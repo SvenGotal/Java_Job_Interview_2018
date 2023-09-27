@@ -1,5 +1,5 @@
-# Job_Interview_Generali
-This is a Java project for a job interview in Generali Insurance company Generali osiguranje d.d. 12.05.2018 - Only now uploaded in 2023.
+# Job_Interview_Insurance
+This is a Java project for a job interview in a European insurance company written on 12.05.2018 - Only now uploaded in 2023.
 
 <h3>Assignment (CRO):</h3>
 <p>Napisati Java aplikaciju koja učitava datoteku map-mock.txt koja se nalazi u prilogu, sortira podatke po vrijednosti te vraća sortirani ispis (u konzoli).</p>
