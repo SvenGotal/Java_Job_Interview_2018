@@ -1,0 +1,11 @@
+Java ; 76
+Python;	4
+Angular; 12
+Pascal;    6
+Docker;11
+Ruby	;	9
+JavaScript; 8 
+C++;	93
+.NET;	16
+ Spring BOOT ; 66
+Kotlin;	-1
